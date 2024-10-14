@@ -13,6 +13,7 @@ This is the repository of the [Biomedical Research Innovation Laboratory](https:
 
 - C.J. Tran (Augusta University)
 - Noah Sleeper (Augusta University)
+- Ethan Schomacker (Augusta University)
 
 # Publication
 
@@ -26,3 +27,8 @@ https://scholarlycommons.augusta.edu/search?scope=23cd2e61-ff4b-479f-910f-cff6c1
 https://augusta.openrepository.com/handle/10675.2/560340
 once they are available
 -->
+
+# Support
+
+- [NIH 5R01GM146338-02](https://reporter.nih.gov/project-details/10483204)
+- Augusta University's [Center for Undergraduate Research and Scholarship](https://www.augusta.edu/curs/)
