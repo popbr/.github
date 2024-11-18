@@ -6,6 +6,7 @@ This is the repository of the [Biomedical Research Innovation Laboratory](https:
 
 ## Current Members
 
+- Tucker Gossman (Augusta University)
 - Adam Reynolds (Augusta University)
 - Aditya Verma (Denmark High school, Alpharetta)
 
