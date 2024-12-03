@@ -16,10 +16,20 @@ This is the repository of the [Biomedical Research Innovation Laboratory](https:
 - Noah Sleeper (Augusta University)
 - Ethan Schomacker (Augusta University)
 
-# Publication
+# Publications
 
-- Clément Aubert, E. Andrew Balas, Tiffany Townsend, Noah Sleeper, C. J. Tran:  Data Integration for the Study of Outstanding Productivity in Biomedical Research. CRIS 2022: 196-200. <https://doi.org/10.1016/j.procs.2022.10.191>
+## Proceedings Article
+
+- Clément Aubert, E. Andrew Balas, Tiffany Townsend, Noah Sleeper, C. J. Tran:  *Data Integration for the Study of Outstanding Productivity in Biomedical Research*. CRIS 2022: 196-200. <https://doi.org/10.1016/j.procs.2022.10.191>
+
+## Journal Article
+
 - C.J. Tran: Matching data from heterogeneous databases for integrated assessment of research productivity. *The Arsenal: The Undergraduate Research Journal of Augusta University*, 5(2), 69-83, 2023. <http://doi.org/10.21633/issn.2380.5064/s.2023.05.02.69> ISSN 2380-5064
+
+## Honors Thesis
+
+- C.J. Tran, *Matching Data from Heterogeneous Databases for Integrated Assessment of Research Productivity*, 2023. Available at <https://github.com/popbr/thesis/blob/main/CJ_Tran_2023_03_04.pdf>.
+- Noah Sleeper, *Challenges of Creating Linkage between Researchers, Institutions, and Data for Qualifying Research Effectiveness*, 2022. Available at <https://github.com/popbr/thesis/blob/main/Noah_Sleeper_2022_12_13.pdf>.
 
 <!--
 add Honors thesis from
