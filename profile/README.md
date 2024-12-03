@@ -28,8 +28,9 @@ This is the repository of the [Biomedical Research Innovation Laboratory](https:
 
 ## Honors Thesis
 
-- C.J. Tran, *Matching Data from Heterogeneous Databases for Integrated Assessment of Research Productivity*, 2023. Available at <https://github.com/popbr/thesis/blob/main/CJ_Tran_2023_03_04.pdf>.
+- Adam Reynolds, *Improving Search Queries for Research Productivity Assessments in Biomedical Research*, 2024. Available at <https://github.com/popbr/thesis/blob/main/Adam_Reynolds_2024_12_03.pdf>.
 - Noah Sleeper, *Challenges of Creating Linkage between Researchers, Institutions, and Data for Qualifying Research Effectiveness*, 2022. Available at <https://github.com/popbr/thesis/blob/main/Noah_Sleeper_2022_12_13.pdf>.
+- C.J. Tran, *Matching Data from Heterogeneous Databases for Integrated Assessment of Research Productivity*, 2023. Available at <https://github.com/popbr/thesis/blob/main/CJ_Tran_2023_03_04.pdf>.
 
 <!--
 add Honors thesis from
