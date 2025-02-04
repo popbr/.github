@@ -6,12 +6,12 @@ This is the repository of the [Biomedical Research Innovation Laboratory](https:
 
 ## Current Members
 
-- Tucker Gossman (Augusta University)
 - Adam Reynolds (Augusta University)
 - Aditya Verma (Denmark High school, Alpharetta)
 
 ## Past Members
 
+- Tucker Gossman (Augusta University)
 - C.J. Tran (Augusta University)
 - Noah Sleeper (Augusta University)
 - Ethan Schomacker (Augusta University)
@@ -24,13 +24,17 @@ This is the repository of the [Biomedical Research Innovation Laboratory](https:
 
 ## Journal Article
 
-- C.J. Tran: Matching data from heterogeneous databases for integrated assessment of research productivity. *The Arsenal: The Undergraduate Research Journal of Augusta University*, 5(2), 69-83, 2023. <http://doi.org/10.21633/issn.2380.5064/s.2023.05.02.69> ISSN 2380-5064
+- C.J. Tran: *Matching data from heterogeneous databases for integrated assessment of research productivity*. The Arsenal: The Undergraduate Research Journal of Augusta University, 5(2), 69-83, 2023. <http://doi.org/10.21633/issn.2380.5064/s.2023.05.02.69> ISSN 2380-5064
 
 ## Honors Thesis
 
-- Adam Reynolds, *Improving Search Queries for Research Productivity Assessments in Biomedical Research*, 2024. Available at <https://github.com/popbr/thesis/blob/main/Adam_Reynolds_2024_12_03.pdf>.
-- Noah Sleeper, *Challenges of Creating Linkage between Researchers, Institutions, and Data for Qualifying Research Effectiveness*, 2022. Available at <https://github.com/popbr/thesis/blob/main/Noah_Sleeper_2022_12_13.pdf>.
-- C.J. Tran, *Matching Data from Heterogeneous Databases for Integrated Assessment of Research Productivity*, 2023. Available at <https://github.com/popbr/thesis/blob/main/CJ_Tran_2023_03_04.pdf>.
+- Adam Reynolds, *Improving Search Queries for Research Productivity Assessments in Biomedical Research*, 2024. Available at <https://github.com/popbr/Thesis-Abstracts-and-Postersblob/main/Adam_Reynolds_2024_12_03.pdf>.
+- Noah Sleeper, *Challenges of Creating Linkage between Researchers, Institutions, and Data for Qualifying Research Effectiveness*, 2022. Available at <https://github.com/popbr/Thesis-Abstracts-and-Postersblob/main/Noah_Sleeper_2022_12_13.pdf>.
+- C.J. Tran, *Matching Data from Heterogeneous Databases for Integrated Assessment of Research Productivity*, 2023. Available at <https://github.com/popbr/Thesis-Abstracts-and-Postersblob/main/CJ_Tran_2023_03_04.pdf>.
+
+# Presentations
+
+- Adam Reynolds: *Improving Search Queries for Researcher Productivity Assessments in Biomedical Research*. Presented at the [GCHC Annual Honors Conference](https://honorsprogram.gatech.edu/gchc) at the Georgia Collegiate Honors Council (GCHC), February 21–22, 2025. Available at <https://github.com/popbr/Thesis-Abstracts-and-Posters/blob/main/Adam_Reynolds_2025_02_04.md>.
 
 <!--
 add Honors thesis from
