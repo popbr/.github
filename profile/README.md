@@ -6,8 +6,8 @@ This is the repository of the [Biomedical Research Innovation Laboratory](https:
 
 ## Current Members
 
+- [Clément Aubert](https://spots.augusta.edu/caubert/)
 - Adam Reynolds (Augusta University)
-- Aditya Verma (Denmark High school, Alpharetta)
 
 ## Past Members
 
@@ -15,6 +15,7 @@ This is the repository of the [Biomedical Research Innovation Laboratory](https:
 - C.J. Tran (Augusta University)
 - Noah Sleeper (Augusta University)
 - Ethan Schomacker (Augusta University)
+- Aditya Verma (Denmark High school, Alpharetta)
 
 # Publications
 
@@ -46,5 +47,5 @@ once they are available
 
 # Support
 
-- [NIH 5R01GM146338-02](https://reporter.nih.gov/project-details/10483204)
+- [NIH Project 5R01GM146338-03](https://reporter.nih.gov/project-details/10673725)
 - Augusta University's [Center for Undergraduate Research and Scholarship](https://www.augusta.edu/curs/)
